@@ -18,6 +18,8 @@ struct ContentView: View {
             Text("Modificacion Fran malo")
             Text("rama alex")
             Text("cambio en rama alex ejemplo2")
+            Text("Modificacion Fran malo desde Rama FranMRama")
+
         }
         .padding()
     }
